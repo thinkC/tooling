@@ -71,5 +71,6 @@ Default web root:
 /usr/share/nginx/html
 ```
 Learning Jenkins1
+Copying friles from Jenkins server to NFS /mnt/opt
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
